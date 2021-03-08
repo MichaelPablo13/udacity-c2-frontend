@@ -1,0 +1,78 @@
+> ng run app:serve --host=localhost --port=8100
+[ng] - Generating browser application bundles...
+[ng] ✔ Browser application bundle generation complete.
+[ng] Initial Chunk Files          | Names                     |      Size
+[ng] vendor.js                    | vendor                    |   3.70 MB
+[ng] polyfills.js                 | polyfills                 | 141.33 kB
+[ng] main.js                      | main                      |  70.37 kB
+[ng] styles.css                   | styles                    |  26.51 kB
+[ng] runtime.js                   | runtime                   |   9.53 kB
+[ng] | Initial Total             |   3.94 MB
+[ng] Lazy Chunk Files             | Names                     |      Size
+[ng] swiper-bundle-95afeea2-js.js | swiper-bundle-95afeea2-js | 200.07 kB
+[ng] polyfills-core-js.js         | polyfills-core-js         |  92.39 kB
+[ng] 11.js                        | -                         |  72.58 kB
+[ng] 17.js                        | -                         |  71.71 kB
+[ng] 2.js                         | -                         |  63.48 kB
+[ng] 33.js                        | -                         |  56.40 kB
+[ng] 1.js                         | -                         |  47.59 kB
+[ng] 26.js                        | -                         |  47.19 kB
+[ng] 31.js                        | -                         |  37.12 kB
+[ng] home-home-module.js          | home-home-module          |  36.54 kB
+[ng] 30.js                        | -                         |  32.95 kB
+[ng] 21.js                        | -                         |  32.50 kB
+[ng] 6.js                         | -                         |  32.22 kB
+[ng] 19.js                        | -                         |  32.15 kB
+[ng] 16.js                        | -                         |  31.12 kB
+[ng] 0.js                         | -                         |  29.81 kB
+[ng] 20.js                        | -                         |  26.68 kB
+[ng] 12.js                        | -                         |  26.41 kB
+[ng] 25.js                        | -                         |  26.28 kB
+[ng] 32.js                        | -                         |  24.53 kB
+[ng] 36.js                        | -                         |  23.93 kB
+[ng] 29.js                        | -                         |  23.77 kB
+[ng] 23.js                        | -                         |  21.94 kB
+[ng] 40.js                        | -                         |  21.74 kB
+[ng] 22.js                        | -                         |  21.05 kB
+[ng] 15.js                        | -                         |  20.52 kB
+[ng] polyfills-dom.js             | polyfills-dom             |  19.47 kB
+[ng] 42.js                        | -                         |  17.93 kB
+[ng] 39.js                        | -                         |  17.33 kB
+[ng] 41.js                        | -                         |  16.95 kB
+[ng] 7.js                         | -                         |  15.95 kB
+[ng] shadow-css-23c95dd7-js.js    | shadow-css-23c95dd7-js    |  15.82 kB
+[ng] 24.js                        | -                         |  15.81 kB
+[ng] 4.js                         | -                         |  15.77 kB
+[ng] 10.js                        | -                         |  15.70 kB
+[ng] input-shims-1eb64a0f-js.js   | input-shims-1eb64a0f-js   |  15.40 kB
+[ng] 18.js                        | -                         |  15.10 kB
+[ng] common.js                    | common                    |  13.20 kB
+[ng] 14.js                        | -                         |  12.96 kB
+[ng] 27.js                        | -                         |  12.03 kB
+[ng] 8.js                         | -                         |  11.43 kB
+[ng] polyfills-css-shim.js        | polyfills-css-shim        |  10.67 kB
+[ng] 9.js                         | -                         |   9.73 kB
+[ng] 35.js                        | -                         |   9.28 kB
+[ng] 34.js                        | -                         |   7.85 kB
+[ng] 37.js                        | -                         |   7.80 kB
+[ng] 28.js                        | -                         |   5.98 kB
+[ng] keyboard-5742b5da-js.js      | keyboard-5742b5da-js      |   5.97 kB
+[ng] 3.js                         | -                         |   5.88 kB
+[ng] tap-click-2553704d-js.js     | tap-click-2553704d-js     |   5.53 kB
+[ng] 5.js                         | -                         |   3.33 kB
+[ng] 13.js                        | -                         |   3.24 kB
+[ng] swipe-back-7f7c9a3b-js.js    | swipe-back-7f7c9a3b-js    |   2.69 kB
+[ng] focus-visible-f4ad4f1a-js.js | focus-visible-f4ad4f1a-js |   1.92 kB
+[ng] 38.js                        | -                         |   1.64 kB
+[ng] status-tap-dc6b4b49-js.js    | status-tap-dc6b4b49-js    |   1.62 kB
+[ng] Build at: 2021-03-08T22:24:15.519Z - Hash: d55b41a06039f4b96923 - Time: 154176ms
+[ng] ✔ Compiled successfully.
+
+[[40mINFO[49m] Development server running!
+       
+       Local: http://localhost:8100
+       
+       Use Ctrl+C to quit this process
+
+[[40mINFO[49m] Browser window opened to http://localhost:8100!
+
